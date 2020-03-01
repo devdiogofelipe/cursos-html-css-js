@@ -1,0 +1,55 @@
+body {
+   background: #E8C5C5;
+   margin-left:500px;
+   margin-right:500px;
+}
+
+header {
+  margin-top:80px;
+}
+
+h1 {
+
+  color: red;
+  font-family:fantasy;
+
+}
+
+batman {
+  color:silver;
+}
+
+superman {
+  color: red;
+}
+
+h2 {
+  
+  font-family:fantasy;
+
+}
+
+p {
+
+  font-size:18px;
+
+}
+
+img {
+  border-radius: 20px;
+  margin-bottom:20px;
+}
+
+footer {
+  background-color:purple;
+  margin-bottom:30px;
+}
+.img_padrao {
+
+  margin-bottom: 60px;
+  width:300px;
+}
+
+.logo {
+  width:30px;
+}
